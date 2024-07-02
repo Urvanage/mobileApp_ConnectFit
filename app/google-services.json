@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "331852927323",
+    "project_id": "fitconnect-37835",
+    "storage_bucket": "fitconnect-37835.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331852927323:android:c7dc8817c6648aeac2ca7e",
+        "android_client_info": {
+          "package_name": "edu.skku.cs.afinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA97hP5ira55E2cJFAWiJ-P4IBfEvC_ZTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

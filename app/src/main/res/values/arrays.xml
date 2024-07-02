@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="exercise_list">
+        <item>Deadlift</item>
+        <item>Dumbbell Lunge</item>
+        <item>Front Squat</item>
+        <item>Incline Dumbbell Curl</item>
+        <item>Bench Press</item>
+        <item>Pull Up</item>
+        <item>Push Up</item>
+        <item>Standing Dumbbell Curl</item>
+    </string-array>
+</resources>
