@@ -43,6 +43,9 @@
   <img src="https://github.com/user-attachments/assets/f1bf903e-0dd2-47b8-bc7a-c1ea66f38c63" width="60%" />
 </p>
 
+### Firebase의 Cloud Firestore
+![Image](https://github.com/user-attachments/assets/035c215a-2631-4b79-bea7-8a4225a3f203)
+
 ## 사용 스킬 & 기술
 - **Android Studio**  
 - **Firebase Firestore**: 사용자 인증 및 데이터 저장  
