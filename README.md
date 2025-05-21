@@ -17,11 +17,9 @@
 </p>
 
 ### 커뮤니티: 글 작성·댓글·피드 상호작용
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/3cbbffea-4ee3-480f-9858-9a78e97bbf03" alt="Community List" width="30%" style="margin:0 5px;" />
-  <img src="https://github.com/user-attachments/assets/4478d00e-4a18-4e56-b510-d2b974846502" alt="Post Detail" width="30%" style="margin:0 5px;" />
-  <img src="https://github.com/user-attachments/assets/b563ba2a-2f40-4ac0-a68e-76152f2b4cbf" alt="Write Post" width="30%" style="margin:0 5px;" />
-</p>
+![Community List](https://github.com/user-attachments/assets/3cbbffea-4ee3-480f-9858-9a78e97bbf03)
+![Post Detail](https://github.com/user-attachments/assets/4478d00e-4a18-4e56-b510-d2b974846502)
+![Write Post](https://github.com/user-attachments/assets/b563ba2a-2f40-4ac0-a68e-76152f2b4cbf)
 
 ### 사용자 목록: 다른 회원 프로필 및 기록 조회
 <p align="center">
